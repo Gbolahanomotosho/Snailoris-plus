@@ -1,6 +1,6 @@
 # Snailoris-plus
 
-  Slowloris method of dos attack with added tor service
+  Slowloris method of dos attack with added tor service to mask attacker ip 
 
 
 # NB:
